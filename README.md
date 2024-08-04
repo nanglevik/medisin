@@ -1,0 +1,2 @@
+# medisin
+Static webpage
